@@ -1,0 +1,57 @@
+*{
+    font-family: Inter;
+    font-style: normal;   
+}
+.content {
+    background-color: #ECEBED;
+    height: 100%;
+    padding-top: 48px;
+}
+
+.spisok {
+    display: flex;
+    width: 95%;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+    align-items: center;
+    margin: 16px 48px 0 48px;
+    
+    border-radius: 4px;
+    margin-bottom: .5rem;
+}
+
+.avka{
+width: 48px;
+height: 48px;
+margin-left: 16px;
+top: 16px;
+border-radius: 64px;
+}
+
+.name{
+    width: 150px;
+    margin-left: 16px;
+}
+
+.balance {
+    width: 150px;
+    margin-left: 44px;
+}
+
+.time{
+    color: #A8A8A8;
+    margin-left: 439px;
+}
+
+.status {
+    margin-left: 300px;
+    border: none;
+    cursor: inherit;
+    color: #3F3356;
+    background: #FFFFFF;
+    box-shadow: 0px 7px 64px rgba(0, 0, 0, 0.07);
+    border-radius: 6px;
+    
+}
